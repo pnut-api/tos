@@ -38,6 +38,6 @@ If you access or use the Service, it means you agree to be bound by all of the t
 
 #### Changes
 
-These Terms will be maintained along with previous versions <a href="https://github.com/pnut-api/tos">on GitHub</a>. No other notice may be given on changes, unless they are deemed to be significant, in which case we will attempt to give two weeks' notice, and send an E-mail to each account address, unless that account has opted-out of notifications. Please submit any concerns or requests for change as issues on <a href="https://github.com/pnut-api/tos">the GitHub repo</a>, or via E-mail to <a href="mailto:support@pnut.io">support@pnut.io</a>.
+These Terms will be maintained along with previous versions <a href="https://github.com/pnut-api/tos">on GitHub</a>. No other notice may be given on changes, unless they are deemed to be significant, in which case we will attempt to give two weeks' notice, and send an E-mail to each account address, unless that account has opted-out of notifications. Please submit any concerns or requests for change as issues <a href="https://github.com/pnut-api/tos">on GitHub</a>, or via E-mail to <a href="mailto:support@pnut.io">support@pnut.io</a>.
 
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the revised Terms.
