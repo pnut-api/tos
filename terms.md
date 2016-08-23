@@ -1,5 +1,7 @@
 ## Terms of Service
 
+<em>Last Updated: 2016-08-23</em>
+
 ### Definitions
 
 Pnut.io and the pnut API website and services will be referred to as "Service" and "we". These terms of service will be referred to as "Terms".
