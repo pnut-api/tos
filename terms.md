@@ -21,6 +21,10 @@ The Service will make due diligence to completely delete your content within two
 Your account may be suspended without warning if deemed a threat to others or to the Service's maintenance and upkeep. If you are concerned about what might constitute a threat, talk to Support. Suspension can be reversed. Offensive or particularly sensitive content should be marked as "Not Safe For Work" ("NSFW") to reduce complaints.
 
 
+### Performance
+
+We make no guarantees of uptime or delivery of services. Performance and functionality will vary across geographies, and this is a small service maintained by a small team.
+
 
 ### Governments
 
