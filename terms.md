@@ -1,6 +1,6 @@
 ## Terms of Service
 
-<em>Last Updated: 2016-08-23</em>
+<em>Last Updated: 2016-09-14</em>
 
 ### Definitions
 
