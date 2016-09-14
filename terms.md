@@ -10,7 +10,7 @@ Pnut.io and the pnut API website and services will be referred to as "Service" a
 
 ### Content
 
-You the text and media that you submit to The Service. We are given legal permission to retain your content insomuch as you are responsible for removing said content. You are also held liable for any illegal content created on or illegal use of the Service through your account.
+You own the text and media that you submit to The Service. We are given legal permission to retain your content insomuch as you are responsible for removing said content. You are also held liable for any illegal content created on or illegal use of the Service through your account.
 
 #### Pseudonyms
 
